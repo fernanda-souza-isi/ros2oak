@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../build/oakrgb/oakrgb.egg-info/PKG-INFO
+../build/oakrgb/oakrgb.egg-info/SOURCES.txt
+../build/oakrgb/oakrgb.egg-info/dependency_links.txt
+../build/oakrgb/oakrgb.egg-info/entry_points.txt
+../build/oakrgb/oakrgb.egg-info/requires.txt
+../build/oakrgb/oakrgb.egg-info/top_level.txt
+../build/oakrgb/oakrgb.egg-info/zip-safe
+launch/oakrgb.launch.py
+oakrgb/__init__.py
+oakrgb/rgb_publisher.py
+resource/oakrgb

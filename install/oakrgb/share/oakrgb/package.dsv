@@ -1,0 +1,6 @@
+source;share/oakrgb/hook/pythonpath.ps1
+source;share/oakrgb/hook/pythonpath.dsv
+source;share/oakrgb/hook/pythonpath.sh
+source;share/oakrgb/hook/ament_prefix_path.ps1
+source;share/oakrgb/hook/ament_prefix_path.dsv
+source;share/oakrgb/hook/ament_prefix_path.sh

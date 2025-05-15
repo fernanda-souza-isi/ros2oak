@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: oakrgb
+Version: 0.1.0
+License: MIT
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: requires-dist

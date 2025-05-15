@@ -1,0 +1,2 @@
+[console_scripts]
+rgb_publisher = oakrgb.rgb_publisher:main
